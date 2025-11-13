@@ -5,3 +5,8 @@ Pillow
 werkzeug
 gunicorn
 opencv-python
+Flask
+face_recognition
+opencv-python
+numpy
+
